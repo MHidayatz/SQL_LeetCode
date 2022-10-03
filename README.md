@@ -7,3 +7,11 @@ This repo contains all my SQL solutions from Leetcode website in order to practi
 ## Description
 The solutions are divided into three level of categories namely Easy, Medium, and Hard. Every category first contains the question and then followed by its respective solution.
 Link to the website is: https://leetcode.com/problemset/database/
+
+### LeetCode Selected Probems
+Only high-quality problems are selected. Pathological problems such as [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers) are not discussed. Entry-level syntax problems such as [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) are not discussed.
+
+| \# | Problems | Solutions | Level | Concept |
+|----|----------|-----------|------| --------|
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [MySQL, MS SQL](./LeetCode/185_Department_Top_Three_Salaries/README.md) | Hard | Non-equijoin; aggregation; window functionsample |
+
