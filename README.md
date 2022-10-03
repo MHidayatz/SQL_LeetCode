@@ -13,5 +13,4 @@ Link to the website is: https://leetcode.com/problemset/database/
 
 | \# | Problems | Solutions | Level | Concept |
 |----|----------|-----------|------| --------|
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [MySQL, MS SQL](./02_Hard/Department Top Three Salaries.sql) | Hard | Non-equijoin; aggregation; window functionsample |
-
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [MySQL, MS SQL](./02_Hard/Department%20Top%20Three%20Salaries.sql) | Hard | Non-equijoin; aggregation; window functionsample |
