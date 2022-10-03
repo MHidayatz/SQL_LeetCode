@@ -24,14 +24,13 @@
 -- +-------------+---------+
 -- id is the primary key column for this table.
 -- Each row of this table indicates the ID of a department and its name.
---  
--- 
+
 -- A company's executives are interested in seeing who earns the most money in each of the company's departments. A high earner in a department is an employee who has a salary in the top three unique salaries for that department.
--- 
+
 -- Write an SQL query to find the employees who are high earners in each of the departments.
--- 
+
 -- Return the result table in any order.
--- 
+
 -- The query result format is in the following example.
 
 -- Example 1:
@@ -77,7 +76,7 @@
 -- - Henry earns the highest salary
 -- - Sam earns the second-highest salary
 -- - There is no third-highest salary as there are only two employees
--- 
+
 -- Solution
 select d.Name as Department, a. Name as Employee, a. Salary 
 from (
